@@ -1,0 +1,138 @@
+.header {
+    display: flex;
+    align-items: center;
+    z-index: 32px;
+    padding: 16px;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #FFFFFF;
+    background-color: #24292E;
+}
+
+.header-item {
+    margin-right: 16px;
+    align-self: stretch;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+header-link {
+    font-weight: 600;
+    color: #FFFFFF;
+    white-space: nowrap;
+    text-decoration: none;
+}
+
+.gato {
+    vertical-align: middle;
+    height: 32px;
+    width: 32px;
+    display: inline-block;
+    overflow: visible;
+    fill: currentColor;
+    box-sizing: border-box;
+}
+
+.search {
+    display: black;
+    width: 100%;
+    padding-top: 0;
+    padding-bottom: 0;
+    font-size: inherit;
+    color: inherit;
+    background: none;
+    border: 0;
+    box-shadow: none;
+    line-height: 20px;
+    padding: 5px 12px;
+    vertical-align: middle;
+    border-radius: 6px;
+    outline: none;
+    font-family: inherit;
+}
+
+.avatar-user {
+    height: 20px;
+    border-radius: 15px;
+}
+
+.avatar {
+    width: 260px;
+    height: 260px;
+    border-radius: 150px;
+}
+
+.Cristiano {
+    font-size: 26px;
+    line-height: 1.25;
+}
+
+.Neto {
+    display: block;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 24px;
+    color: #586069;
+}
+
+.location {
+    margin-left: 0px;
+    float: left;
+    width: 16px;
+    height: 16px;
+    margin-top: 3px;
+    color: #6a737d;
+    text-align: center;
+
+}
+
+.EditProfile {
+    border-radius: 6px;
+    width: 100%;
+    text-align: center;
+    padding: 5px 16px;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: inherit;
+    border: 1px solid;
+}
+
+.java {
+    background-color: #b07219;
+    top: 1px;
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border: 1px;
+    border-radius: 10px;
+}
+
+.HTML {
+    background-color: #e34c26;
+    top: 1px;
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border: 1px;
+    border-radius: 10px;
+}
+
+.Jupyternotebook {
+    background-color: #DA5B0B;
+    top: 1px;
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border: 1px;
+    border-radius: 10px;
+}
+
+.calendario {
+    width: 828px;
+    height: 128px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
